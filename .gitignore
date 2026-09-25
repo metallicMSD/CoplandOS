@@ -1,0 +1,11 @@
+linux-*/
+*.tar.xz
+*.o
+*.ko
+*.cmd
+*.mod
+*.mod.c
+.tmp_versions/
+Module.symvers
+modules.order
+System.map
